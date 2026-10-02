@@ -24,4 +24,6 @@ clrkk = {
 
 ---
 
+## 🛠️ What I've Built
+
 This is a collection of my college projects, and game jam creations, showcasing my journey and growth in programming, software development, and game development.
