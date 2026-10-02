@@ -11,7 +11,7 @@ clrkk = {
     "name": "Janfred Clark Baguio",
     "role": "BSIT Student & Aspiring Software Developer",
     "focus": "Software Development and Game Development",
-    "goal": "Build useful software and keep learning",
+    "goal": "Build useful software, fun games, and keep learning",
 }
 ```
 
