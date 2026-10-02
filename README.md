@@ -1,7 +1,5 @@
 ## >> whoami
 
----
-
 ```python
 clrkk = {
     "name": "Janfred Clark Baguio",
@@ -17,10 +15,10 @@ clrkk = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/clrkk992/clrkk992/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/clrkk992/clrkk992/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/clrkk992/clrkk992/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 </div>
 
