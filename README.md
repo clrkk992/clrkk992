@@ -1,4 +1,5 @@
 ## Hi there 👋
+A collection of my college projects, and game jam creations, showcasing my journey and growth in programming, software development, and game development.
 
 <!--
 **clrkk992/clrkk992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
