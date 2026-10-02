@@ -1,4 +1,14 @@
-## Hi there 👋
+## >> whoaa
+
+```python
+clrkk = {
+    "name": "Janfred Clark Baguio",
+    "role": "BSIT Student & Aspiring Software Developer",
+    "focus": "Software Development and Game Development",
+    "goal": "Build useful software and keep learning",
+}
+```
+
 This is a collection of my college projects, and game jam creations, showcasing my journey and growth in programming, software development, and game development.
 
 <!--
