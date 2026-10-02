@@ -11,14 +11,14 @@ clrkk = {
 ## 📈 Full Metrics
 
 <div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/main/github-metrics.svg" alt="metrics" />
+  <img width="50%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/main/github-metrics.svg" alt="metrics" />
 </div>
 
 <!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/output/github-snake-dark.svg" />
-    <img width="95%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/output/github-snake.svg" alt="contribution snake" />
+    <img width="50%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/output/github-snake.svg" alt="contribution snake" />
   </picture>
 </div>
 
