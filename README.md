@@ -27,6 +27,6 @@ clrkk = {
 ## 🛠️ What I've Built
 
 ```java
-System.out.println(This is a collection of my college projects, and game jam creations, showcasing my journey and
-growth in programming, software development, and game development.);
+System.out.println("This is a collection of my college projects, and game jam creations, showcasing my journey and
+growth in programming, software development, and game development.");
 ```
